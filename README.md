@@ -61,7 +61,9 @@ PureConnect is a social media app that allows users to connect with friends, sha
   <img src="https://github.com/IsratTasnimEsha/Social-Media-App/assets/88322977/6df924a3-9c02-4c13-954a-293727fd2168" alt="Logo" width="30%">
 </p>
 
-## Authors
+## License
+
+This project is licensed under the [MIT License](LICENSE).
 
 ## Authors
 
@@ -73,9 +75,3 @@ PureConnect is a social media app that allows users to connect with friends, sha
 
 *Department of Computer Science and Engineering*  
 *Khulna University of Engineering and Technology*
-
-
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
