@@ -3,7 +3,7 @@
 <br>
 
 <p align="center">
-  <img src="![3](https://github.com/IsratTasnimEsha/Social-Media-App/assets/88322977/c4ec5af9-afba-48c3-b723-e9ad17e1f643)" alt="Logo" width="12%">
+  <img src="https://github.com/IsratTasnimEsha/Social-Media-App/assets/88322977/c4ec5af9-afba-48c3-b723-e9ad17e1f643" alt="Logo" width="12%">
 </p>
 
 
