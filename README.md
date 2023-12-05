@@ -57,7 +57,7 @@ PureConnect is a social media app that allows users to connect with friends, sha
 
 ### News API
 
-<p align="center">
+<p>
   <img src="https://github.com/IsratTasnimEsha/Social-Media-App/assets/88322977/6df924a3-9c02-4c13-954a-293727fd2168" alt="Logo" width="30%">
 </p>
 
