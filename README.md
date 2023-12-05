@@ -11,10 +11,8 @@ PureConnect is a social media app that allows users to connect with friends, sha
 ## Table of Contents
 - [Features](#features)
 - [Screenshots](#screenshots)
-- [Authors](#authors)
-- [Getting Started](#getting-started)
-- [Dependencies](#dependencies)
 - [License](#license)
+- [Authors](#authors)
 
 ## Features
 
@@ -24,12 +22,12 @@ PureConnect is a social media app that allows users to connect with friends, sha
 
 ### 2. Post Creation
 - Create posts with images and descriptions.
-- View and manage your posts on the timeline.
-- Delete your own posts.
 
 ### 3. Timeline
 - Scroll through a timeline to see posts from friends.
-- Interact with posts by liking and commenting.
+- Interact with posts by reacting and commenting.
+- View and manage your posts on the timeline.
+- Delete your own posts.
 
 ### 4. Profile Management
 - Edit your profile information.
@@ -47,33 +45,18 @@ PureConnect is a social media app that allows users to connect with friends, sha
 
 ## Authors
 
-1. [Author Name 1](https://github.com/author1)
-   - Role: Lead Developer
-   - Contact: author1@example.com
+## Authors
 
-2. [Author Name 2](https://github.com/author2)
-   - Role: UI/UX Designer
-   - Contact: author2@example.com
+- Israt Tasnim Esha
+- Jobair Al Nahian
+- Hasibul Hasan Hasib
+- Sonjoy Roy
+- Safwan Zaher Asif
 
-3. [Author Name 3](https://github.com/author3)
-   - Role: Backend Developer
-   - Contact: author3@example.com
+*Department of Computer Science and Engineering*  
+*Khulna University of Engineering and Technology*
 
-4. [Author Name 4](https://github.com/author4)
-   - Role: Mobile App Developer
-   - Contact: author4@example.com
 
-5. [Author Name 5](https://github.com/author5)
-   - Role: QA Tester
-   - Contact: author5@example.com
-
-## Getting Started
-
-Provide instructions on how to install and run the app locally.
-
-## Dependencies
-
-List any dependencies or third-party libraries used in the project.
 
 ## License
 
