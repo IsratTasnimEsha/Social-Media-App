@@ -3,8 +3,9 @@
 <br>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/IsratTasnimEsha/Social-Media-App/main/assets/88322977/f5789813-5b53-4559-9878-58d2e7d70c22.png" alt="Logo" width="12%">
+  <img src="https://github.com/IsratTasnimEsha/Social-Media-App/assets/88322977/0d0990e0-c126-4de3-aa6e-88ff5cbd7f6e" alt="Logo" width="12%">
 </p>
+
 
 PureConnect is a social media app that allows users to connect with friends, share moments, and stay updated on the latest news.
 
@@ -52,6 +53,11 @@ PureConnect is a social media app that allows users to connect with friends, sha
 ### Timeline, Delete Post, Comments
 
 | ![timeline](https://github.com/IsratTasnimEsha/Social-Media-App/assets/88322977/bae2458e-a892-4e1b-8bf9-e27d0b2899ad) | ![delete](https://github.com/IsratTasnimEsha/Social-Media-App/assets/88322977/f6ae044f-5d59-48fa-bd6d-d4c5e2206724) | ![comment](https://github.com/IsratTasnimEsha/Social-Media-App/assets/88322977/a34c560f-e4f2-4dec-a2f6-dda82d59ad08) |
+|---|---|---|
+
+### News API
+
+|  | ![api](https://github.com/IsratTasnimEsha/Social-Media-App/assets/88322977/2a79b476-010f-41de-9af2-7144107e74f6) |  |
 |---|---|---|
 
 ## Authors
