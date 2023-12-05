@@ -57,8 +57,6 @@ PureConnect is a social media app that allows users to connect with friends, sha
 
 ### News API
 
-### Order Monitoring
-
 <table align="center">
   <tr>
     <td align="center">
