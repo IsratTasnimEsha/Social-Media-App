@@ -1,4 +1,4 @@
-![delete](https://github.com/IsratTasnimEsha/Social-Media-App/assets/88322977/78043729-7dcc-4dd4-807c-717b1000a45b)![select](https://github.com/IsratTasnimEsha/Social-Media-App/assets/88322977/3d9c7ad7-5c94-477e-8b7a-0adceb437d6e)# PureConnect - A Social Media App
+# PureConnect - A Social Media App
 
 <br>
 
