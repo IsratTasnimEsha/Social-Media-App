@@ -45,14 +45,14 @@ PureConnect is a social media app that allows users to connect with friends, sha
 
 ### Edit Profile, Image Picker, Create Post
 
-| ![timeline](https://github.com/IsratTasnimEsha/Social-Media-App/assets/88322977/bae2458e-a892-4e1b-8bf9-e27d0b2899ad) | ![delete](https://github.com/IsratTasnimEsha/Social-Media-App/assets/88322977/f6ae044f-5d59-48fa-bd6d-d4c5e2206724) | ![comment](https://github.com/IsratTasnimEsha/Social-Media-App/assets/88322977/a34c560f-e4f2-4dec-a2f6-dda82d59ad08) |
+
+| ![profile](https://github.com/IsratTasnimEsha/Social-Media-App/assets/88322977/3e9212a6-86f4-4c6b-a51f-bc97491dcb6b) | ![select](https://github.com/IsratTasnimEsha/Social-Media-App/assets/88322977/ed418fc3-af2b-4f75-a7af-b86de9d0399b) | ![post](https://github.com/IsratTasnimEsha/Social-Media-App/assets/88322977/a0a6510f-6ea4-4749-a469-dbcf2b7266f7) |
 |---|---|---|
 
 ### Timeline, Delete Post, Comments
 
-| ![timeline](https://raw.githubusercontent.com/IsratTasnimEsha/Social-Media-App/main/assets/88322977/7a1d9f25-39f2-4162-af0c-918582018db2.png) | ![delete](https://raw.githubusercontent.com/IsratTasnimEsha/Social-Media-App/main/assets/88322977/b7d38318-2d61-46c7-8d2e-040f0fe1af7d.png) | ![comment](https://raw.githubusercontent.com/IsratTasnimEsha/Social-Media-App/main/assets/88322977/379afc3a-05a0-4a3e-a793-abac10d75745.png) |
+| ![timeline](https://github.com/IsratTasnimEsha/Social-Media-App/assets/88322977/bae2458e-a892-4e1b-8bf9-e27d0b2899ad) | ![delete](https://github.com/IsratTasnimEsha/Social-Media-App/assets/88322977/f6ae044f-5d59-48fa-bd6d-d4c5e2206724) | ![comment](https://github.com/IsratTasnimEsha/Social-Media-App/assets/88322977/a34c560f-e4f2-4dec-a2f6-dda82d59ad08) |
 |---|---|---|
-
 
 ## Authors
 
