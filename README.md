@@ -42,9 +42,7 @@ PureConnect is a social media app that allows users to connect with friends, sha
 
 ### Splash Screen, Sign Up, Sign In
 
-| ![Screenshot 4](![splash](https://github.com/IsratTasnimEsha/Social-Media-App/assets/88322977/0439e77b-4d27-4984-a30a-b20b7c84e50a)) | ![Screenshot 5](![signup](https://github.com/IsratTasnimEsha/Social-Media-App/assets/88322977/4d4f02d3-3966-4931-987c-4cdec45e8530)
-) | ![Screenshot 6](![signin](https://github.com/IsratTasnimEsha/Social-Media-App/assets/88322977/33467ad4-cb8b-4a46-aa32-ff77667c2c17)
-) |
+| ![Screenshot 4](https://github.com/IsratTasnimEsha/Social-Media-App/assets/88322977/0439e77b-4d27-4984-a30a-b20b7c84e50a.png) | ![Screenshot 5](https://github.com/IsratTasnimEsha/Social-Media-App/assets/88322977/4d4f02d3-3966-4931-987c-4cdec45e8530.png) | ![Screenshot 6](https://github.com/IsratTasnimEsha/Social-Media-App/assets/88322977/33467ad4-cb8b-4a46-aa32-ff77667c2c17.png) |
 |---|---|---|
 
 ## Authors
