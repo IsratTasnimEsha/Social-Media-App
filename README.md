@@ -61,6 +61,10 @@ PureConnect is a social media app that allows users to connect with friends, sha
   <img src="https://github.com/IsratTasnimEsha/Social-Media-App/assets/88322977/6df924a3-9c02-4c13-954a-293727fd2168" alt="Logo" width="30%">
 </p>
 
+## Contact
+
+I'm here to assist you on your journey with the PureConnect: A Social Media App. If you need help or want to share feedback, feel free to reach out to us at [israttasnimesha1046@gmail.com](mailto:israttasnimesha1046@gmail.com).
+
 ## Authors
 
 - Israt Tasnim Esha
