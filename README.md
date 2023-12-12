@@ -9,12 +9,6 @@
 
 PureConnect is a social media app that allows users to connect with friends, share moments, and stay updated on the latest news.
 
-## Table of Contents
-- [Features](#features)
-- [Screenshots](#screenshots)
-- [License](#license)
-- [Authors](#authors)
-
 ## Features
 
 ### 1. User Authentication
