@@ -57,7 +57,7 @@ PureConnect is a social media app that allows users to connect with friends, sha
 
 ## Contact
 
-I'm here to assist you on your journey with the PureConnect: A Social Media App. If you need help or want to share feedback, feel free to reach out to us at [israttasnimesha1046@gmail.com](mailto:israttasnimesha1046@gmail.com).
+I'm here to assist you on your journey with the PureConnect: A Social Media App. If you need help or want to share feedback, feel free to reach out to me at [israttasnimesha1046@gmail.com](mailto:israttasnimesha1046@gmail.com).
 
 ## Authors
 
