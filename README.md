@@ -61,11 +61,11 @@ I'm here to assist you on your journey with the PureConnect - A Social Media App
 
 ## Authors
 
-- Israt Tasnim Esha
-- Jobair Al Nahian
-- Hasibul Hasan Hasib
-- Sonjoy Roy
-- Safwan Zaher Asif
+- Israt Tasnim Esha (1907090)
+- Jobair Al Nahian (1907071)
+- Hasibul Hasan Hasib (1907089)
+- Sonjoy Roy (1907073)
+- Safwan Zaher Asif (1907066)
 
 *Department of Computer Science and Engineering*  
 *Khulna University of Engineering and Technology*
