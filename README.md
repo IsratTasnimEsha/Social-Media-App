@@ -69,4 +69,5 @@ I'm here to assist you on your journey with the PureConnect - A Social Media App
 
 **CSE 3218	- Mobile Computing Laboratory**  
 *Department of Computer Science and Engineering*  
-*Khulna University of Engineering and Technology*
+*Khulna University of Engineering and Technology*      
+**Year:** 2023
